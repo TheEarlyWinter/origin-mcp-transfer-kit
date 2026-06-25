@@ -2,6 +2,12 @@
 
 > Origin MCP 一键迁移包 —— 让 AI 助手通过 MCP 控制 Origin/OriginPro
 
+## ⚠️ 声明
+
+本项目完全由 AI 生成，不保证任何质量、可用性或安全性。如果你介意，请不要使用。
+
+---
+
 ## 这是什么？
 
 在新电脑上快速部署 [origin-mcp](https://github.com/Ge-Shun/origin-mcp) 的一站式工具包。包含：
