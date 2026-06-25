@@ -29,7 +29,7 @@ powershell -ExecutionPolicy Bypass -File .\scripts\install-origin-mcp.ps1
 
 | 平台 | 支持情况 |
 |------|---------|
-| HanaAgent / OpenHanako | ✅ 完全支持（附配置示例） |
+| [OpenHanako / HanaAgent](https://github.com/liliMozi/openhanako) | ✅ 完全支持（附配置示例） |
 | 其他 MCP 客户端（Codex、Claude Code、Cursor 等） | ⚠️ 需自行配置，见[平台兼容性说明](https://github.com/TheEarlyWinter/origin-mcp-transfer-kit/blob/main/%E5%B9%B3%E5%8F%B0%E5%85%BC%E5%AE%B9%E6%80%A7%E8%AF%B4%E6%98%8E.md) |
 
 ## 详细文档
@@ -41,3 +41,4 @@ powershell -ExecutionPolicy Bypass -File .\scripts\install-origin-mcp.ps1
 ## 原始项目
 
 - [Ge-Shun/origin-mcp](https://github.com/Ge-Shun/origin-mcp) —— origin-mcp 上游项目
+- [liliMozi/openhanako](https://github.com/liliMozi/openhanako) —— OpenHanako / HanaAgent
