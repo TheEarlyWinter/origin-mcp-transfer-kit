@@ -1,0 +1,37 @@
+{
+  "id": "origin-mcp",
+  "name": "Origin MCP",
+  "description": "Origin/OriginPro local bridge via origin-mcp",
+  "transport": "stdio",
+  "url": "",
+  "command": "C:\\Path\\To\\Python312\\python.exe",
+  "args": [
+    "-m",
+    "origin_mcp"
+  ],
+  "cwd": "",
+  "env": {
+    "ORIGIN_MCP_BRIDGE_STATUS": "C:\\Path\\To\\origin-mcp-transfer-kit\\origin-mcp-src\\origin-bridge.status.txt"
+  },
+  "headers": {},
+  "registryUrl": "",
+  "timeout": 0,
+  "authType": "none",
+  "authorizationToken": "",
+  "oauthClientId": "",
+  "oauthClientSecret": "",
+  "clientIdSource": "",
+  "oauth": {
+    "accessToken": "",
+    "refreshToken": "",
+    "tokenType": "",
+    "tokenEndpoint": "",
+    "scope": "",
+    "expiresIn": 0,
+    "expiresAt": 0,
+    "obtainedAt": 0
+  },
+  "autoStart": true,
+  "autoReconnect": true,
+  "tools": []
+}
