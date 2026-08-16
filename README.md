@@ -1,6 +1,19 @@
-# origin-mcp-transfer-kit
+<div align="center">
 
-> Origin MCP 一键迁移包 —— 让 AI 助手通过 MCP 控制 Origin/OriginPro
+# 🔌 Origin MCP Transfer Kit
+
+<p align="center">
+  <b>Origin MCP 一键部署与迁移套件 —— 让 AI 助手通过 MCP 协议轻松控制 Origin / OriginPro 科学绘图</b>
+</p>
+
+[![HanaAgent / MCP](https://img.shields.io/badge/MCP-Protocol-8B5CF6?style=flat-square&logo=probot&logoColor=white)](https://github.com/liliMozi/openhanako)
+[![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+[![OriginPro](https://img.shields.io/badge/Support-OriginPro%202021+-orange?style=flat-square)]()
+
+</div>
+
+---
 
 ## ⚠️ 声明
 
